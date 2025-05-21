@@ -73,12 +73,6 @@ php artisan l5-swagger:generate
 ### Get Order
 - **GET** `/api/orders/{id}`
 - Retrieves order details by ID
-
-## Testing
-
-Run the test suite:
-```bash
-php artisan test
 ```
 
 ## License
